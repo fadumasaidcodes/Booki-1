@@ -2,10 +2,7 @@
 
 Here's an overview of the technical and functional specifications for the development of the new Booki website. These specifications have been approved by the Product team and should be followed closely during development.
 
-![Screenshot of the website](https://user-images.githubusercontent.com/screenshot.png)
-
-
-
+![Screenshot](images/screenshot.png)
 
 ### Functional Specifications
 
