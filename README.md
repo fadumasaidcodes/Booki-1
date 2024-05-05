@@ -2,6 +2,9 @@
 
 Here's an overview of the technical and functional specifications for the development of the new Booki website. These specifications have been approved by the Product team and should be followed closely during development.
 
+![Screenshot of the website](screeshot%20of%20the%20webite.png)
+
+
 ### Functional Specifications
 
 1. **Accommodation Search**: Users should be able to search for accommodation in their chosen town. The search field should be editable and part of a form for W3C validation. Note: The search functionality itself is not required to be functional at this stage.
